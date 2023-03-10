@@ -1,2 +1,2 @@
 # BraiNote
-# App para anotações Mentais
+App para anotações Mentais
